@@ -1,2 +1,4 @@
 # MeteorTodoList
 Simple Todo List Application using Meteor JS &amp; MongoDB
+
+This is the simple Todo List application project developed using Meteor.js and MongoDB. To run this app successfully on your machine, you must have meteor support on your machine.<br />In case, you don't have meteor support on your machine, then first run the following command in terminal to install latest version of meteor.js on your machine.<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><strong>curl https://install.meteor.com/ | sh</strong></code><br /><br />In order to run this simple Todo List app on your machine, first switch to 'MeteorTodoList' project directory and run the following command in terminal.<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><strong>meteor</strong></code><br /><br />Then, open the following URL in the browser: -<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><strong>http://localhost:3000/</strong></code>
